@@ -8,7 +8,9 @@ the	global	life	and	property	and	casualty	insurance	industry	with	the	goal	of	ge
 proven	new	business	models,	products	and	services.	Cookhouse	Labs	hosts	the	SummerHack	2021	
 Ideathon	event	in	partnership	with msg and InsurLab	Germany.
 
+
 > Our Goal is.... *MVP*
+
 
 ## Docs
 
@@ -22,7 +24,7 @@ Ideathon	event	in	partnership	with msg and InsurLab	Germany.
 
 *Some material [here.](Extras/)
 
-##Achivement of goals
+## Achivement of goals
 
 1. LEVEL	OF	INNOVATION	(20%)
 Does	the	concept	of	your	solution	offer	something	new	and	unique	that	hasn’t	been	
@@ -39,6 +41,8 @@ relieved	to	use?
 How	easily	can	the	solution	be	implemented?
 
 
-> Science is to understand your way...
+
 
 > Thanks.
+
+_Science is to understand your way..._
